@@ -1,110 +1,154 @@
-#  Service Line Expansion Strategy — Healthcare Consulting Project
+# 🏥 Hospital Service Line Expansion Strategy
 
-> A secondary research-driven strategy framework to guide a mid-sized hospital chain in prioritizing service line expansion across Indian markets.
+**Healthcare Consulting | Market Research | Strategic Decision-Making**
 
----
-
-## Context
-
-A mid-sized hospital chain operating **3–5 hospitals** across Tier 1 and Tier 2 cities in India is evaluating which clinical service line to expand — within an **18-month horizon** — without straining its existing clinical or financial performance.
-
-This project simulates a consulting engagement where leadership is asking:
-- Which service line should we prioritize?
-- Which geographies make strategic sense?
-- How do we expand responsibly?
+> A structured, data-driven strategy project evaluating service line expansion opportunities for a mid-sized hospital chain in India.
 
 ---
 
-##  Objective
+## 📌 Problem Statement
 
-Build a structured, evidence-based recommendation framework that leadership can use to make a confident expansion decision — grounded in market data, not intuition.
+A mid-sized hospital chain operating **3–5 hospitals across Tier 1 and Tier 2 cities** aims to expand into a high-growth clinical service line within an **18-month horizon**.
+
+Key leadership questions:
+
+* Which service line offers the best growth and ROI potential?
+* Which geographies should be prioritized?
+* How can expansion be executed without operational strain?
 
 ---
 
-##  Methodology
+## 🎯 Project Objective
 
-### 1. Secondary Research
-Evaluated 10 service lines across 4 criteria using publicly available data:
+To develop a **decision-making framework** that enables leadership to confidently prioritize a service line expansion based on:
 
-| Criteria | Description |
-|---|---|
-| **Disease Burden** | Prevalence and mortality trends in India |
-| **Revenue Potential** | Procedural revenue and profitability per patient |
-| **Infrastructure Investment** | Capital required to build/upgrade the service line |
-| **Growth Trajectory** | Long-term market demand and specialty economics |
+* Market demand
+* Financial viability
+* Competitive landscape
+* Execution feasibility
 
-**Service lines evaluated:** Cardiology, Oncology, Orthopedics, Gynaecology & Obstetrics, Neurology, Pulmonology, Gastroenterology, General Surgery, Emergency/Trauma, Nephrology
+---
 
-### 2. Geographic Analysis
-Assessed Tier 1 vs Tier 2 city dynamics across:
-- Competitive intensity and market saturation
-- Infrastructure gaps and bed density
-- Income growth and insurance penetration
-- Operating cost structure
+## 🧠 Approach & Framework
 
-### 3. Primary Research Design
-Designed a stakeholder validation framework with tailored interview guides for 5 stakeholder groups:
-- Hospital Owners / Board Members
-- Surgeons / Clinical Heads of Departments
-- Operations Head
-- Patients / Caregivers
-- Consulting Physicians
+### 1. Service Line Prioritization
 
+Evaluated **10 clinical specialties** across 4 strategic dimensions:
 
+* **Disease Burden** → Demand driver
+* **Revenue Potential** → Profitability per patient
+* **Infrastructure Investment** → CAPEX intensity
+* **Growth Trajectory** → Long-term sustainability
 
-##  Key Finding
+---
 
-**Cardiology in Tier 2 cities** emerges as the priority recommendation.
+### 2. Geographic Strategy
 
-- CVD accounts for ~27% of total mortality in India, creating stable long-term demand
-- Cardiology is a procedure-led specialty with high revenue per patient
-- Advanced cardiac infrastructure is concentrated in Tier 1 metros — Tier 2 cities represent a clear infrastructure gap and unmet demand
-- Lower operating costs in Tier 2 cities improve return on investment
-- Tier 1 metros face high competitive intensity from established chains, limiting growth for mid-sized players
+Compared **Tier 1 vs Tier 2 cities** across:
 
->  **Note:** Secondary research provides directional confidence. Final capital allocation should follow structured primary research (stakeholder interviews) to validate revenue concentration, operational readiness, and investment feasibility.
+* Competitive intensity
+* Bed density & infrastructure gaps
+* Income growth & insurance penetration
+* Cost structures and ROI dynamics
 
+---
 
+### 3. Stakeholder Validation Design
 
-## 📂 Files
+Designed a **primary research framework** to validate strategy with:
 
-| File | Description |
-|---|---|
-| `Service_Line_Expansion_Strategy_19_Feb.pptx` | 13-slide strategy deck covering situation, framework, market signals, geographic analysis, and expansion options |
-| `Service_Line_Expansion_strategy_Evidence_19Feb.xlsx` | Supporting evidence workbook with service line scoring, geographic analysis, primary research design, and cited sources |
+* Hospital leadership
+* Clinical heads
+* Operations teams
+* Patients & caregivers
+* Referring physicians
 
+---
 
+## 💡 Key Insight
 
-##  Expansion Options Modeled
+### 👉 Cardiology in Tier 2 Cities = Highest Strategic Opportunity
 
-### Option A — Partnership-Led (Lower Risk)
-- **Tier 1:** Upgrade existing facilities; advanced interventional cardiology
-- **Tier 2:** Partner with local hospitals; diagnostics + selective procedures; refer complex cases to Tier 1
+**Why this stands out:**
 
-### Option B — Capability-Building (Higher Investment)
-- **Tier 1:** Full interventional cardiologist team; high-tech equipment; complex surgeries
-- **Tier 2:** Visiting cardiologist model; diagnostics + basic procedures; complex cases referred up
+* Cardiovascular diseases contribute to ~27% of mortality in India → **high, stable demand**
+* Procedure-driven specialty → **strong revenue per patient**
+* Infrastructure concentrated in Tier 1 → **clear Tier 2 supply gap**
+* Lower cost base in Tier 2 → **better ROI potential**
+* Tier 1 markets are saturated → **limited growth headroom for mid-sized players**
 
-Each option addresses a different risk appetite and strategic priority, as detailed in the deck.
+---
 
+## 🚀 Strategic Recommendations
 
+### Option A — Partnership-Led Expansion (Lower Risk)
 
-##  Key Sources
+* Tier 1: Strengthen advanced cardiac capabilities
+* Tier 2: Partner with local hospitals for diagnostics + selective procedures
+* Complex cases referred to Tier 1 hubs
 
-- IMARC Group — India Hospital Market
-- KPMG — Multi-speciality Hospitals in India
-- Mordor Intelligence — India Cardiovascular Devices Market
-- Grand View Research — Cardiovascular Treatment Market, India
-- PubMed / JAMA Network Open — CVD burden studies
-- IBEF — Healthcare & Insurance Penetration
-- Credence Research — India Hospital Market
+---
 
+### Option B — Capability-Building Model (Higher Investment)
 
+* Tier 1: Build full-scale interventional cardiology centers
+* Tier 2: Deploy visiting specialist model + diagnostics + basic procedures
+* Gradual capability scaling over time
 
-## 🛠️ Tools & Skills Demonstrated
+---
 
-`Market Research` · `Healthcare Strategy` · `Competitive Analysis` · `Framework Design` · `Stakeholder Research Design` · `PowerPoint` · `Excel`
+## 📊 Expected Impact
 
+* 📈 Strong revenue upside driven by procedural volumes
+* ⏱️ Faster break-even in Tier 2 markets due to lower operating costs
+* 🏥 Improved patient access in underserved regions
+* 🔁 Scalable hub-and-spoke expansion model
 
+---
+
+## 📂 Repository Contents
+
+* 📄 **Strategy Deck**
+  `Service_Line_Expansion_Strategy.pdf`
+  → End-to-end consulting-style recommendation
+
+* 📊 **Analysis Workbook**
+  `Service_Line_Expansion_Evidence.xlsx`
+  → Service line scoring, geographic comparison, and supporting data
+
+---
+
+## 🛠️ Skills & Tools
+
+**Core Skills:**
+Healthcare Strategy · Market Research · Competitive Analysis · Business Case Development · Stakeholder Research Design
+
+**Tools:**
+Microsoft Excel · PowerPoint
+
+---
+
+## 📚 Data Sources
+
+IMARC Group · KPMG · Mordor Intelligence · Grand View Research · PubMed · JAMA Network Open · IBEF · Credence Research
+
+---
+
+## 👩‍💼 About Me
+
+**Prachi Samarth**
+Healthcare Strategy & Analytics Professional with 6+ years of experience across medical devices, market research, and healthcare insights.
+
+Interested in roles across:
+
+* Healthcare Consulting
+* Strategy & Insights
+* Product & Analytics (Digital Health)
+
+---
+
+## ⚠️ Disclaimer
+
+This project is based entirely on **publicly available secondary research** and is intended for **portfolio and demonstration purposes only**. No confidential or proprietary data has been used.
 
 
